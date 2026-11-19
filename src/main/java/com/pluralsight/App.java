@@ -11,5 +11,7 @@ public class App {
 
         System.out.println("Hello " + input + "!");
 
+        System.out.println("Goodbye " + input + "!");
+
     }
 }
